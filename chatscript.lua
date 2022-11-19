@@ -1,3 +1,6 @@
+text="text"
+color=red
+
 red=Color3.fromRGB(204, 51, 51)
 strongred=Color3.fromRGB(255, 0, 0)
 green=Color3.fromRGB(51, 204, 51)
